@@ -18,7 +18,7 @@ python main.py <csv_file> <delimiter> <lower_bound>
 -- help -> usage instructions
 
 
-#### Example CSV format your validator expects:
+#### Example CSV format that the validator expects:
 doc_id,title,version,status,last_updated
 M001,Motor Manual,1.0,approved,2023-01-01
 M002,Installation Guide,,draft,2021-03-12
