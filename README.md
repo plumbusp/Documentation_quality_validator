@@ -1,5 +1,5 @@
 # Documentation_quality_validator
-Built a Python tool to validate documentation metadata (in csv): detects duplicates and missing and outdated version.
+Built a Python CLI tool to validate documentation metadata (in csv): detects duplicates, missing and outdated versions.
 
 ### Install guide: 
 #### Prerequisites
